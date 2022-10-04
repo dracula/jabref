@@ -1,4 +1,5 @@
 # Dracula Theme for JabRef
+![Options Tab](assets/preview.png)
 
 1. Clone this repository
 
