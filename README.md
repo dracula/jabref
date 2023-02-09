@@ -1,26 +1,27 @@
-# Dracula Theme for JabRef
-![Options Tab](assets/preview.png)
+# Dracula for [JabRef](https://www.jabref.org/)
 
-1. Clone this repository
+> A dark theme for [JabRef](https://www.jabref.org/).
 
-``` shell
-git clone https://github.com/Inf166/theme-jabref-dracula.git
-```
+![Screenshot](./screenshots/preview.png)
 
-2. Open your JabRef Program
+## Install
 
-3. Open the Options/Preferences
+All instructions can be found at [draculatheme.com/JabRef](https://github.com/Inf166/theme-jabref-dracula/blob/main/INSTALL.md).
 
-![Options Tab](assets/options.png)
+## Team
 
-4. Go to the Appearance Section
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/JabRef/graphs/contributors).
 
-5. And select Custom Theme
+| [![Joel Mai](https://github.com/inf166.png?size=100)](https://github.com/inf166) |
+| ---------------------------------------------------------------------------------------- |
+| [Joel Mai](https://github.com/inf166)                                               |
 
-![Options Tab](assets/custom-theme.png)
+## Community
 
-6. Select the dracula.css file from this repository
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
-7. Press save and enjoy
+## License
 
-```Note: It may load for a few seconds.```
+[GNU GENERAL PUBLIC LICENSE](./LICENSE)
