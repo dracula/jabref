@@ -28,4 +28,4 @@ Download using the [GitHub .zip download](https://github.com/Inf166/theme-jabref
 
 6. Press save and enjoy
 
-```Note: It may load for a few seconds.```
+`Note: It may load for a few seconds.`

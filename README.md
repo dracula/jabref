@@ -2,19 +2,19 @@
 
 > A dark theme for [JabRef](https://www.jabref.org/).
 
-![Screenshot](./screenshots/preview.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/JabRef](https://github.com/Inf166/theme-jabref-dracula/blob/main/INSTALL.md).
+All instructions can be found at [draculatheme.com/jabref](https://github.com/Inf166/theme-jabref-dracula/blob/main/INSTALL.md).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/JabRef/graphs/contributors).
 
 | [![Joel Mai](https://github.com/inf166.png?size=100)](https://github.com/inf166) |
-| ---------------------------------------------------------------------------------------- |
-| [Joel Mai](https://github.com/inf166)                                               |
+| -------------------------------------------------------------------------------- |
+| [Joel Mai](https://github.com/inf166)                                            |
 
 ## Community
 
@@ -24,4 +24,4 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 ## License
 
-[GNU GENERAL PUBLIC LICENSE](./LICENSE)
+[MIT License](./LICENSE)
