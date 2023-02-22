@@ -4,7 +4,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    git clone https://github.com/dracula/jabref.git
+```bash
+
+git clone https://github.com/dracula/jabref.git
+
+```
 
 #### Install manually
 
@@ -16,13 +20,13 @@ Download using the [GitHub .zip download](https://github.com/Inf166/theme-jabref
 
 2. Open the Options/Preferences
 
-![Options Tab](screenshots/options.png)
+   ![Options Tab](./screenshots/options.png)
 
 3. Go to the appearance section
 
 4. And select custom theme
 
-![Options Tab](screenshots/custom-theme.png)
+   ![Options Tab](./screenshots/custom-theme.png)
 
 5. Select the dracula.css file from the zip file
 
