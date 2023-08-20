@@ -6,15 +6,15 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/jabref](https://github.com/Inf166/theme-jabref-dracula/blob/main/INSTALL.md).
+All instructions can be found at [draculatheme.com/jabref](https://github.com/mai-space/theme-jabref-dracula/blob/main/INSTALL.md).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/JabRef/graphs/contributors).
 
-| [![Joel Mai](https://github.com/inf166.png?size=100)](https://github.com/inf166) |
+| [![Joel Mai](https://github.com/mai-space.png?size=100)](https://github.com/mai-space) |
 | -------------------------------------------------------------------------------- |
-| [Joel Mai](https://github.com/inf166)                                            |
+| [Joel Mai](https://github.com/mai-space)                                            |
 
 ## Community
 

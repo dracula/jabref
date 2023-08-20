@@ -12,7 +12,7 @@ git clone https://github.com/dracula/jabref.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/Inf166/theme-jabref-dracula/archive/refs/heads/main.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/mai-space/theme-jabref-dracula/archive/refs/heads/main.zip) option and unzip them.
 
 #### Activating theme
 
